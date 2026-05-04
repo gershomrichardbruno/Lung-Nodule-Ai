@@ -1,0 +1,15 @@
+# Ignore datasets
+dataset/
+processed/
+processed_nodules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
